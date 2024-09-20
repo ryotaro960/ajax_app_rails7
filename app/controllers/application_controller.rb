@@ -2,7 +2,7 @@ class ApplicationController < ActionController::Base
 
 before_action :basic_auth
 
-a
+
 private
 
 def basic_auth
